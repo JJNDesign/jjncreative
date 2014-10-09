@@ -162,7 +162,7 @@ border:none;
 a.navbar-brand {
 float: left;
 height: inherit;
-padding: 3px 15px;
+padding: 3px 3px;
 font-size: 18px;
 line-height: 48px;
 color:#fff;
@@ -226,7 +226,6 @@ margin: 0 auto;
 .page{
   padding: 40px 0;
   position:relative;
-  border-bottom:5px solid #dedede;
 }
 .page:last-of-type{
 border-bottom:none;
