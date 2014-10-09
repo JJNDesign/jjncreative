@@ -32,6 +32,13 @@ $('a.btnAbout, a.hire').click(function() {
 });    
 //=======================flexslider==============================================
 
+$(window).load(function(){
+$('#flex-head').flexslider({
+animation: "slide",    
+slideshow: true
+}); 
+});
+
 //=====================================================================
        
 

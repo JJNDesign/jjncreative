@@ -77,7 +77,7 @@ background: url(../img/pattern.png);
 }
 
 #flex-head h1{
-font-family: 'Lato';
+font-family: 'Roboto Slab', serif;
 font-weight:700;
 font-size:60px;
 margin:0;
@@ -100,7 +100,7 @@ box-shadow:none;
 zoom: 1;
 }
 #flex-head h2{
-font-family: 'VerelaRound';
+font-family: 'Open Sans', sans-serif;
 font-size:24px;
 margin:0;
 padding:0 0 40px 0;
@@ -199,8 +199,7 @@ margin: 0 ;
 z-index: 77;
 padding: 0 0 20px 0;
 font-size:36px;
-font-weight:600;
-font-famiily:'Lato';
+font-family:'Roboto Slab', serif;
 }
 .line-title{
 width: 40px;
@@ -285,9 +284,8 @@ padding-top: 24px;
 }
 .wrapp-progress p{
 font-size:14px;
-font-family: 'Lato', sans-serif;  
+font-family: 'Open sans', sans-serif;  
 color:#444444;  
-font-weight:bold;
 margin:0;
 padding:0;
 line-height:24px;
