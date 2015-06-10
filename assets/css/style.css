@@ -212,16 +212,16 @@ a.navbar-brand:hover {
 	font-weight: 100;
 }
 #aboutMore .title-page h2{
-	color: #b2b234;
+	color: #fff;
 }
 #work .title-page h2{
-	color: #ec145b;	
+	color: #fff;	
 }
 #testimonials .title-page h2{
-	color: #fcc736;	
+	color: #fff;	
 }
 #contact .title-page h2{
-	color: #1ebb90;	
+	color: #fff;	
 }
 .line-title{
 	width: 40px;

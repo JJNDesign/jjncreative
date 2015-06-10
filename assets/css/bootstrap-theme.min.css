@@ -17,16 +17,13 @@ border-color:#b2d234;
 	color:#fff;
 	background-color: #3d4860;
 }.navbar-inverse .navbar-nav > li > a#aboutLink:hover, .navbar-inverse .navbar-nav > li > a#aboutLink:focus, .navbar-inverse .navbar-nav > li.current > a#aboutLink {
-	color:#fff;
-	background-color: #b2b234;
+	color:#00aeef;
 }
 .navbar-inverse .navbar-nav > li > a#workLink:hover, .navbar-inverse .navbar-nav > li > a#workLink:focus, .navbar-inverse .navbar-nav > li.current > a#workLink{
-	color:#fff;
-	background-color: #ec145b;
+	color:#ec008c;
 }
 .navbar-inverse .navbar-nav > li > a#testimonialsLink:hover, .navbar-inverse .navbar-nav > li > a#testimonialsLink:focus, .navbar-inverse .navbar-nav > li.current > a#testimonialsLink{
-	color:#fff;
-	background-color: #fcc736;
+	color:#fcc736;
 }
 .link-attr a:hover, .main-about .btn-clear:hover, .main-caption .btn-clear:hover{
 color:#ffffff;
