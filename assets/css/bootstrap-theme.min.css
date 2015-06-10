@@ -40,15 +40,19 @@ color: #ffffff;
 }
 .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {margin-left: 0px;}
 div#aboutMore {
-	background-color: #F7F8FA;
+	background-color: #00aeef;
 	padding-bottom: 100px;
 }
 div#work {
-	background-color: #ffffff;
+	background-color: #ec008c;
+	padding-bottom: 100px;
+}
+div#testimonials {
+	background-color: #fcc736;
 	padding-bottom: 100px;
 }
 div#contact {
-	background-color: #f7f8fa;
+	background-color: #000;
 	color: #01002b;
 }
 html, body {
