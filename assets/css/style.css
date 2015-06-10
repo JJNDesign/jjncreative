@@ -208,14 +208,14 @@ a.navbar-brand:hover {
 	margin: 0 ;
 	z-index: 77;
 	padding: 0 0 20px 0;
-	font-size:36px;
+	font-size:42px;
 	font-weight: 100;
 }
 #aboutMore .title-page h2{
 	color: #fff;
 }
 #work .title-page h2{
-	color: #fff;	
+	color: #ec008c;	
 }
 #testimonials .title-page h2{
 	color: #fff;	
@@ -291,17 +291,6 @@ a.navbar-brand:hover {
 /* g. Testimonials styles
 /* ------------------------------------------------------------------ */
 
-#testimonials {
-   background: #1F1F1F url('/assets/img/testimonials-bg.jpg') no-repeat center center;
-   background-size: cover !important;
-	-webkit-background-size: cover !important;
-   background-attachment: fixed;
-
-   position: relative;
-   min-height: 200px;
-   width: 100%;
-   overflow: hidden;
-}
 #testimonials .container {
    padding-top: 30px;
    padding-bottom: 66px;
@@ -1158,7 +1147,7 @@ padding:8px 14px;
 }
 
 .title-page h2{
-font-size:24px;
+font-size:42px;
 }
 }
 
@@ -1181,7 +1170,7 @@ padding:0 0 8px 0;
 padding:8px 14px;
 }
 .title-page h2{
-font-size:18px;
+font-size:42px;
 }
 }
 @media screen and (min-width:240px) and (max-width: 480px){
@@ -1199,7 +1188,7 @@ padding:0 0 8px 0;
 padding:6px 14px;
 }
 .title-page h2{
-font-size:24px;
+font-size:42px;
 }
 }
 @media screen and (max-width: 767px) and (min-width: 240px){
